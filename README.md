@@ -20,6 +20,8 @@ TOOLS USED:
 pygame 
 tkinter
 
+This is a link to the game: https://repl.it/@AnjolaTopeBabal/snake-game
+
 App walkthrough <br/>
 <img src="https://i.imgur.com/Ye3hJn3.gif" width="500" height="400" />  
 
